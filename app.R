@@ -60,3 +60,4 @@ server <- function(input, output) {
 
 # Run app ----
 shinyApp(ui, server)
+
